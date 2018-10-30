@@ -20,11 +20,11 @@ def intersection(array1, array2)
 
   return intersection
 
+  # =begin
+  # Time complexity = O(n * m), where n and m are the lengths of the first and second array.
+  #
+  # Space complexity = O(n), where n is the smallest array length
+  # =end
+
   raise NotImplementedError
 end
-
-=begin
-Time complexity = O(n1 * n2), where n1 and n2 are the lengths of the first and second array.
-
-Space complexity = O(n), where n is the smallest array length
-=end
